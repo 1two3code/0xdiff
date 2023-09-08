@@ -1,6 +1,6 @@
 {
   "name": "0xdiff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts bin file to diffable text and starts `code --diff`",
   "main": "index.mjs",
   "type": "module",
@@ -18,7 +18,7 @@
     "url": "git+https://github.com/1two3code/0xdiff.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hans Löfgren",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/1two3code/0xdiff/issues"

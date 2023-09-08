@@ -12,7 +12,7 @@ Zero dependency CLI tool to diff binary files.
 
 ## Usage
 ```
-0xdiff 1.0.0
+0xdiff 1.0.1
 Converts bin file to diffable text and starts `code --diff`
 
 Usage: 0xdiff [options] <file> <file>
