@@ -1,0 +1,27 @@
+{
+  "name": "0xdiff",
+  "version": "1.0.0",
+  "description": "Converts bin file to diffable text and starts `code --diff`",
+  "main": "index.mjs",
+  "type": "module",
+  "bin": {
+    "0xdiff": "./index.mjs"
+  },
+  "engines": {
+    "node": ">=18.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1two3code/0xdiff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1two3code/0xdiff/issues"
+  },
+  "homepage": "https://github.com/1two3code/0xdiff#readme"
+}
